@@ -3,7 +3,7 @@
 import cmath
 import math
 import streamlit as st
-import keyboard as kd
+# import keyboard as kd
 st.title("Find the solutions:-")
 
 
